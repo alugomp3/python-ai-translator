@@ -1,0 +1,5 @@
+requests
+python-docx
+beautifulsoup4
+openai
+langchain-openai
